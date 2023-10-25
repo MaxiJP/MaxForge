@@ -1,0 +1,20 @@
+Symbol range map extraction starting
+Processing 1 files
+processing dev/maxprime/maxseeds/MaxSeedsForge.java
+@|dev/maxprime/maxseeds/MaxSeedsForge.java|8|29|dev.maxprime.maxseeds|package|dev.maxprime.maxseeds|(file)
+Class Start: dev.maxprime.maxseeds.MaxSeedsForge
+   @|dev/maxprime/maxseeds/MaxSeedsForge.java|351|357|String|class|java.lang.String
+   @|dev/maxprime/maxseeds/MaxSeedsForge.java|358|363|MODID|field|dev.maxprime.maxseeds.MaxSeedsForge|MODID|
+   @|dev/maxprime/maxseeds/MaxSeedsForge.java|403|409|String|class|java.lang.String
+   @|dev/maxprime/maxseeds/MaxSeedsForge.java|410|417|VERSION|field|dev.maxprime.maxseeds.MaxSeedsForge|VERSION|
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|468|472|init|method|dev.maxprime.maxseeds.MaxSeedsForge|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|473|495|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|496|501|event|param|dev.maxprime.maxseeds.MaxSeedsForge|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|540|546|System|class|java.lang.System
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|547|550|out|field|java.lang.System|out
+      @|dev/maxprime/maxseeds/MaxSeedsForge.java|551|558|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : dev.maxprime.maxseeds.MaxSeedsForge
+endProcessing dev/maxprime/maxseeds/MaxSeedsForge.java
+
